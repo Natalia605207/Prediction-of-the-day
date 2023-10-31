@@ -1,5 +1,7 @@
 <div align="center">
 
+![](./logo.png)
+
 # Prediction of the day
 
 This is a fully-responsive app with nice daily predictions. 
